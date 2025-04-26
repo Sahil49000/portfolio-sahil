@@ -1,6 +1,8 @@
 # Portfolio Responsive Complete
 ### Portfolio Responsive Complete
 
+
+[Here is the link for my resume](https://drive.google.com/file/d/1FeiJFLiFHVBAAqA3ORDx6MeM276eCEz2/view?usp=sharing)
 - Responsive Personal Portfolio Website HTML CSS & JavaScript.
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
